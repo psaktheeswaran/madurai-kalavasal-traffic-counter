@@ -1,2 +1,8 @@
 https://github.com/bamwani/vehicle-counting-using-python-yolo
 https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python
+https://github.com/Yaffa1607/Pandas-Python
+https://github.com/pranjalAI/tensorflow-yolov4-tflite
+https://github.com/alexivaner/DeepSort-Yolo-V4-with-CSV-Logging-and-Picture-Cropping
+https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784
+
+
