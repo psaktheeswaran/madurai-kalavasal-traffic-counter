@@ -1,0 +1,2 @@
+https://github.com/bamwani/vehicle-counting-using-python-yolo
+https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python
